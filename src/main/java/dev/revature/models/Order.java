@@ -20,7 +20,7 @@ public class Order {
     private Warehouse warehouse;
 
     private ShippingRegion shippingRegion;
-    private String sku;
+    private String product;
 
     //annotation can be used to store your enums in the database as a string
 //    @Enumerated(EnumType.STRING)
